@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Civil Engineer with a PhD by the University of Edinburgh and the Pontificia Universidad Católica de Chile, and currently a Postdoctoral Research Assistant at the University of Dundee. My research focuses on theoretical and computational fluid dynamics, turbulence, and fluid–structure interaction, combining high-fidelity simulations (DNS, LES, RANS) with dynamical systems analysis. I have extensive experience developing and extending CFD solvers for various fluid phenomena. My work spans boundary layer flows, wave–current interaction, fluid dynamics in marine energy applications, and mixing and transport in aquatic environments.
+I am a Civil Engineer with a PhD by the University of Edinburgh and the Pontificia Universidad Católica de Chile, and currently an EPSRC fellow at the University of Dundee. 
+
+My research focuses on *theoretical and computational fluid dynamics*, *turbulence*, and *fluid–structure interaction*, combining high-fidelity simulations (DNS, LES, RANS) with dynamical systems analysis. I have extensive experience developing and extending CFD solvers for various fluid phenomena. My work spans boundary layer flows, wave–current interaction, fluid dynamics in marine energy applications, and mixing and transport in aquatic environments.
 
 <!---
 A data-driven personal website
