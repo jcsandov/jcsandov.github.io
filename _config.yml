@@ -285,14 +285,14 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _portfolio
+  # _research
   - scope:
       path: ""
       type: research
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comment: true
   # _talks
   - scope:
