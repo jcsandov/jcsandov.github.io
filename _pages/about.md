@@ -12,6 +12,7 @@ I am a Civil Engineer with a PhD by the University of Edinburgh and the Pontific
 My research focuses on **theoretical and computational fluid dynamics**, **turbulence**, and **fluid–structure interaction**, combining high-fidelity simulations (DNS, LES, RANS) with dynamical systems analysis. I have extensive experience developing and extending CFD solvers for various fluid phenomena. My work spans:
 
 - Fluid dynamics in marine energy applications
+- Free-surface flows modelling
 - Wave–current interaction
 - Boundary layer flows
 - Mixing and transport in aquatic environments
