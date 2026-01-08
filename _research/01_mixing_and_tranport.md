@@ -6,6 +6,8 @@ excerpt: "In this line of work, I have focused on the numerical modelling of com
   <img width='80%' src='/images/01_01_mixing_and_transport_cavity_scheme.jpg'>
 </div>
 
+<br/><br/>
+
 <div style='text-align: center;'>
   <video width='60%' controls>
     <source src='/images/01_02_mixing_and_transport_C_evolution.mp4' type='video/mp4'>
