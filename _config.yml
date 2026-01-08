@@ -26,11 +26,11 @@ author:
   avatar           : "foto_clasica_square.jpg"
   name             : "Jorge Sandoval"
   #pronouns         : # example: "she/her"  
-  bio              : "PhD in Fluid Dynamics and Computational Methods"
+  bio              : "PhD in Fluid Dynamics and Computational Methods - j.sandoval@ed.ac.uk"
   location         : "Edinburgh, UK"
   employer         : "University of Dundee"
   uri              : # URL
-  email            : "j.sandoval@ed.ac.uk" 
+  #email            : "j.sandoval@ed.ac.uk" 
 
   # Academic websites
  #academia         : # URL
