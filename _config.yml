@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "foto_clasica.png"
   name             : "Jorge Sandoval"
   pronouns         : # example: "she/her"  
   bio              : "PhD in Fluid Dynamics and Computational Methods"
