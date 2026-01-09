@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
 <!-->excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2017-11-01
-venue: 'Proceedings of the XXIII Congreso SOCHID'
+venue: '<strong>Proceedings of the XXIII Congreso SOCHID</strong>'
 <!-->slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
 <!-->paperurl: 'https://academicpages.github.io/files/paper3.pdf'
 <!-->citation: 'Gironás, J., & **Sandoval**, J. (2017). Riesgo de origen hidrometeorológico en la ciudad de Santiago. _Santiago Resiliente_.'
