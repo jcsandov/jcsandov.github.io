@@ -10,7 +10,7 @@ excerpt: "In this area, I have focused on the effects on the flow of different m
 
 <div style='text-align: center;'>
   <video width='40%' controls>
-    <source src='/images/02_02_marine_energy_turbine.mp4' type='video/mp4'>
+    <source src='/images/02_02_marine_energy_turbine_compressed.mp4' type='video/mp4'>
     Your browser does not support the video tag.
   </video>
 </div>"
