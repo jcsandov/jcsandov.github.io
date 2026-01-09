@@ -8,5 +8,7 @@ date: 2017-01-01
 venue: 'Santiago Resiliente'
 <!-->slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
 <!-->paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Gironás, J., & **Sandoval**, J. (2017). Riesgo de origen hidrometeorológico en la ciudad de Santiago. _Santiago Resiliente_.'
+<!-->citation: 'Gironás, J., & **Sandoval**, J. (2017). Riesgo de origen hidrometeorológico en la ciudad de Santiago. _Santiago Resiliente_.'
+citation: 'Gironás, J., & <strong>Sandoval</strong>, J. (2017). Riesgo de origen hidrometeorológico en la ciudad de Santiago. <em>Santiago Resiliente</em>.'
+
 ---
