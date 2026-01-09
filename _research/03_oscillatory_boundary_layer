@@ -1,6 +1,6 @@
 ---
 title: "Boundary layer dynamics of oscillatory flows"
-excerpt: "In this research area, I have focused on the development, adaptation, and implementation of numerical models capable of representing flows with large free-surface deformations, such as waves or flows in the presence of obstacles. My emphasis has been on developing models that can accurately represent complex geometries and configurations, while at the same time properly satisfying mass conservation and the boundary conditions imposed by the free surface. This work was developed for my [PhD thesis](/files/04_PhD_tesis_corregida_Sandoval_compressed.pdf), and corresponds to an article in preparation for JCP. 
+excerpt: "In this research area, I have worked on the study of transition and turbulence dynamics in oscillatory boundary layers. My work focuses on the identification and characterisation of Edge State solutions in the Stokes boundary layer through fully parallel DNS using the spectral code [Diablo](https://github.com/jsandoval001/Diablo_edge_tracking), which I have extended and developed with new modules to perform automated edge tracking and flow stability analysis. This work led to the discovery of a novel Periodic Self-Sustained Process (PSSP), providing new insight into the unsteady dynamics of oscillatory wall-bounded turbulence. The results were recently published in an [article](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/edge-states-and-the-periodic-selfsustaining-process-in-the-stokes-boundary-layer/6FB8EE834F3E81D7688B379BE5A1BB13) in the Journal of Fluid Mechanics, and a second article—extending the analysis to drag-reduction mechanisms under spanwise wall oscillations—is currently in preparation for submission to the same journal. 
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
 
@@ -13,7 +13,7 @@ excerpt: "In this research area, I have focused on the development, adaptation, 
     Your browser does not support the video tag.
   </video>
 
-</div>
+</div>"
 
 collection: research
 ---
