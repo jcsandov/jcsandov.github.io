@@ -1,0 +1,19 @@
+---
+title: "Free surface flows modelling"
+excerpt: "In this research area, I have focused on the development, adaptation, and implementation of numerical models capable of representing flows with large free-surface deformations, such as waves or flows in the presence of obstacles. My emphasis has been on developing models that can accurately represent complex geometries and configurations, while at the same time properly satisfying mass conservation and the boundary conditions imposed by the free surface. This work corresponds to my [PhD thesis](https://www.sciencedirect.com/science/article/pii/S0029801821000196) 
+
+<div style='text-align: center;'>
+  <img width='100%' src='/images/03_01_free_surface_flows_supercritical.png'>
+</div>
+
+<br/>
+
+<div style='text-align: center;'>
+  <video width='50%' controls>
+    <source src='/images/03_02_free_surface_flows_solitary_wave.mp4' type='video/mp4'>
+    Your browser does not support the video tag.
+  </video>
+</div>"
+
+collection: research
+---
