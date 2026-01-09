@@ -5,10 +5,10 @@ excerpt: "In this research area, I have worked on the study of transition and tu
 <div style='display: flex; justify-content: center; align-items: center; gap: 20px;'>
 
   <img src='/images/03_Stokes_scheme.png'
-       style='width: 48%; max-width: 500px;' />
+       style='width: 40%; max-width: 500px;' />
 
   <video controls
-         style='width: 48%; max-width: 500px;'>
+         style='width: 56%; max-width: 500px;'>
     <source src='/images/03_3D_streaks.mp4' type='video/mp4'>
     Your browser does not support the video tag.
   </video>
