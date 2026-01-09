@@ -13,7 +13,7 @@ My research focuses on theoretical and **computational fluid dynamics**, **turbu
 
 - Fluid dynamics in marine energy applications
 - Free-surface flows modelling
-- Boundary layer flows
+- Boundary layer dynamics of oscillatory flows
 - Mixing and transport in aquatic environments
 
 
