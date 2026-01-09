@@ -2,7 +2,7 @@
 title: "Riesgo Hidrometeorologico en la ciudad de Santiago"
 collection: publications
 category: manuscripts
-<!-->permalink: /publication/2015-10-01-paper-title-number-3
+permalink: https://www.santiagoresiliente.cl/wp-content/uploads/2017/05/Informe_Final_CIGIDEN.pdf
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2017
 venue: 'Santiago Resiliente'
