@@ -1,6 +1,19 @@
 ---
 title: "Boundary layer dynamics of oscillatory flows"
-excerpt: "In this research area, I have worked on the study of transition and turbulence dynamics in oscillatory boundary layers. My work focuses on the identification and characterisation of Edge State solutions in the Stokes boundary layer through fully parallel DNS using the spectral code [Diablo](https://github.com/jsandoval001/Diablo_edge_tracking), which I have extended and developed with new modules to perform automated edge tracking and flow stability analysis. This work led to the discovery of a novel Periodic Self-Sustained Process (PSSP), providing new insight into the unsteady dynamics of oscillatory wall-bounded turbulence. The results were recently published in an [article](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/edge-states-and-the-periodic-selfsustaining-process-in-the-stokes-boundary-layer/6FB8EE834F3E81D7688B379BE5A1BB13) in the _Journal of Fluid Mechanics_, and a second article—extending the analysis to drag-reduction mechanisms under spanwise wall oscillations—is currently in preparation for submission to the same journal."
+excerpt: "In this research area, I have worked on the study of transition and turbulence dynamics in oscillatory boundary layers. My work focuses on the identification and characterisation of Edge State solutions in the Stokes boundary layer through fully parallel DNS using the spectral code [Diablo](https://github.com/jsandoval001/Diablo_edge_tracking), which I have extended and developed with new modules to perform automated edge tracking and flow stability analysis. This work led to the discovery of a novel Periodic Self-Sustained Process (PSSP), providing new insight into the unsteady dynamics of oscillatory wall-bounded turbulence. The results were recently published in an [article](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/edge-states-and-the-periodic-selfsustaining-process-in-the-stokes-boundary-layer/6FB8EE834F3E81D7688B379BE5A1BB13) in the _Journal of Fluid Mechanics_, and a second article—extending the analysis to drag-reduction mechanisms under spanwise wall oscillations—is currently in preparation for submission to the same journal.
+
+<div style='display: flex; justify-content: center; align-items: center; gap: 20px;'>
+
+  <img src='/images/03_Stokes_scheme.png'
+       style='width: 48%; max-width: 500px;' />
+
+  <video controls
+         style='width: 48%; max-width: 500px;'>
+    <source src='/images/03_3D_streaks.mp4' type='video/mp4'>
+    Your browser does not support the video tag.
+  </video>
+
+</div>"
 
 collection: research
 ---
