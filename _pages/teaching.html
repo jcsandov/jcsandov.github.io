@@ -9,6 +9,12 @@ The syllabus and content of the courses I have been a lecturer or tutor for are 
 
 {% include base_path %}
 
+{% assign sorted_teaching = site.teaching | sort: 'name' %}
+{% for post in sorted_teaching %}
+{% include archive-single.html %}
+{% endfor %}
+
+<!--
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}
