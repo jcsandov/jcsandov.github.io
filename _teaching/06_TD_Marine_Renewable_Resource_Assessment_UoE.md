@@ -8,7 +8,7 @@ date: 2022-01-01
 location: "Edinburgh, UK"
 ---
 
-This course takes a problem-based learning approach to introduce resource assessment requirements and techniques for offshore renewable energy developments. It addresses the modelling and analysis of wave, tidal and wind data, and enables students to apply the techniques learned to real datasets in the context of an offshore energy development. The first three days of each week of the course include lectures, computer-based analysis and modelling sessions, and group-based discussion. The final two days of each week focus on student-led group work to address specific challenges, and links closely to the Group Design Project.
+This course takes a problem-based learning approach to introduce resource assessment requirements and techniques for offshore renewable energy developments. It addresses the modelling and analysis of wave, tidal and wind data, and enables students to apply the techniques learned to real datasets in the context of an offshore energy development. 
 
 1. Wind resource
 ======
