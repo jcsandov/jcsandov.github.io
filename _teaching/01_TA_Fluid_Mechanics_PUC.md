@@ -2,7 +2,7 @@
 title: "Fluid Mechanics"
 collection: teaching
 type: "Teaching Assistant"
-permalink: /teaching/01_TD_Fluid_Mechanics_PUC
+permalink: /teaching/01_TA_Fluid_Mechanics_PUC
 venue: "Universidad Católica de Chile"
 date: 2013-01-01
 location: "Santiago, Chile"
