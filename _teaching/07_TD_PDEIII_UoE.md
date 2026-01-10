@@ -2,7 +2,7 @@
 title: "Partial Differential Equations III"
 collection: teaching
 type: "Tutor and Demonstrator"
-permalink: /teaching/06_TD_Marine_Renewable_Resource_Assessment_UoE
+permalink: /teaching/07_TD_PDEIII_UoE
 venue: "University of Edinburgh"
 date: 2023-01-01
 location: "Edinburgh, UK"
