@@ -16,8 +16,8 @@ In this course, students are provided with the tools necessary to: recognise and
 1.1. General overview <br>
 1.2. Basic concepts <br>
 1.3. Properties of fluids <br>
-2.1. Description of motion <br>
-2.2. Dimensional analysis <br>
+1.4. Description of motion <br>
+1.5. Dimensional analysis <br>
 
 2. Fluid statics
 ======
