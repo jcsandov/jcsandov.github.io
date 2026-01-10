@@ -13,37 +13,37 @@ In this course, students are provided with the tools necessary to: recognise and
 
 1. Introduction and properties
 ======
-1.1. General overview
-1.2. Basic concepts
-1.3. Properties of fluids
-2.1. Description of motion
-2.2. Dimensional analysis
+1.1. General overview <br>
+1.2. Basic concepts <br>
+1.3. Properties of fluids <br>
+2.1. Description of motion <br>
+2.2. Dimensional analysis <br>
 
 2. Fluid statics
 ======
-2.1. Pressure and its properties
-2.2. Forces on surfaces
-2.3. Forces on submerged bodies
+2.1. Pressure and its properties <br>
+2.2. Forces on surfaces <br>
+2.3. Forces on submerged bodies <br>
 
 3. Integral analysis of fluid behaviour
 ======
-3.1. Reynolds transport theorem
-3.2. Continuity
-3.3. Energy
-3.4. Momentum
+3.1. Reynolds transport theorem <br>
+3.2. Continuity <br>
+3.3. Energy <br>
+3.4. Momentum <br>
 
 4. Differential analysis of fluid behaviour
 ======
-4.1. Kinematics
-4.2. Conservation of mass
-4.3. Dynamics of ideal fluids (Euler and Bernoulli equations)
-4.4. Dynamics of real fluids (Navier–Stokes equations for incompressible fluids)
+4.1. Kinematics <br>
+4.2. Conservation of mass <br>
+4.3. Dynamics of ideal fluids (Euler and Bernoulli equations) <br>
+4.4. Dynamics of real fluids (Navier–Stokes equations for incompressible fluids) <br>
 
 5. Applications to real fluids
 ======
-5.1. Laminar and turbulent boundary layers
-5.2. Flow separation and forces on bodies
-5.3. Friction losses in closed conduits (friction factor)
+5.1. Laminar and turbulent boundary layers <br>
+5.2. Flow separation and forces on bodies <br>
+5.3. Friction losses in closed conduits (friction factor) <br>
 5.4. Local (minor) losses
 
 
