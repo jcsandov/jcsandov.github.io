@@ -17,6 +17,10 @@ My research focuses on theoretical and **computational fluid dynamics**, **turbu
 - Mixing and transport in aquatic environments
 
 
+<div style='text-align: center;'>
+  <img width='100%' src='/images/banner_webpage.png'>
+</div>
+
 <!---
 A data-driven personal website
 ======
