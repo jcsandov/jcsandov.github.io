@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Civil Engineer with a joint PhD degree from the **University of Edinburgh** and the **Pontificia Universidad Católica de Chile**, and I am currently an EPSRC Fellow at the **University of Dundee**.
+I am a Civil Engineer with a joint **PhD degree** from the **University of Edinburgh** and the **Pontificia Universidad Católica de Chile**, and I am currently an **EPSRC Fellow** at the **University of Dundee**.
 
 My research focuses on **theoretical** and **computational fluid dynamics**, **turbulence**, and **fluid–structure interaction**, combining **high-fidelity numerical simulations** (DNS, LES, RANS) with **dynamical systems** analysis. I have extensive experience in the development and extension of CFD solvers for a broad range of fluid phenomena. My work spans:
 
