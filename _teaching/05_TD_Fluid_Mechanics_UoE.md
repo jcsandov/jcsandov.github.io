@@ -27,7 +27,7 @@ A general form of the Navier-Stokes equation is derived with a focus on the phys
 ======
 3.1 The basics of potential flow: introduction of vorticity and the velocity potential and derivation of the conservation laws governing incompressible irrotational flow, including Bernoulli's law. <br>
 3.2 The building blocks of potential flow: introduction to the elementary solutions to the Laplace equation, the principle of linear superposition and application to explain applied fluid dynamics problems. <br>
-3.3 Forces on objects in potential flow: flow past a rotating circle, the Magnus effect and the d'Alembert's paradox, Kelvin¿s circulation theorem and Kutta-Joukowsky¿s theorem. <br>
+3.3 Forces on objects in potential flow: flow past a rotating circle, the Magnus effect and the d'Alembert's paradox, Kelvin¿s circulation theorem and Kutta-Joukowsky's theorem. <br>
 3.4 How to reconcile potential flow with rotational flow: the link between circulation and vorticity, bound circulation and free vortices. <br>
 3.4 Introduction to thin airfoil theory: key assumptions and basic results.
 
@@ -46,7 +46,7 @@ A general form of the Navier-Stokes equation is derived with a focus on the phys
 6. Turbulent Statistics
 ======
 6.1 The statistical approach: ensemble, moments, stationarity and homogeneity.
-6.2 Correlations, integral scale, spectra, Kolmogorov¿s scales.
+6.2 Correlations, integral scale, spectra, Kolmogorov's scales.
 
 
 
