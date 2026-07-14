@@ -10,7 +10,7 @@ excerpt: "In this research area, I have focused on the development, adaptation, 
 
 <div style='text-align: center;'>
   <video width='70%' controls>
-    <source src='/images/03_02_free_surface_flows_solitary_wave.mp4' type='video/mp4'>
+    <source src='/images/solitary_wave_obstacle_s01.mp4' type='video/mp4'>
     Your browser does not support the video tag.
   </video>
 </div>"
